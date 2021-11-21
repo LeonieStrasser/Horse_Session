@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b49313501924048b6fcc117c849978, type: 3}
+  m_Name: CarrotB_noTrust
+  m_EditorClassIdentifier: 
+  mainText: "Das Pferd schaut zu dir, r\xFChrt sich aber nicht vom Fleck."
+  buttonText1: Ich gehe mit ausgestreckter Karotte auf das Pferd zu.
+  nextSetting1a: {fileID: 11400000, guid: cc54a68f252774540997a09a6aaf38b1, type: 2}
+  maxTrust1a: 5
+  maxDistanceRespect1a: 0
+  nextSetting1b: {fileID: 11400000, guid: 8cc81e36e295aae429cfe381ac1ffd11, type: 2}
+  maxTrust1b: 0
+  maxDistanceRespect1b: 0
+  nextSetting1c: {fileID: 11400000, guid: 8cc81e36e295aae429cfe381ac1ffd11, type: 2}
+  buttonText2: Es scheint nicht zu reagieren. Ich stecke die Karotte wieder weg.
+  nextSetting2a: {fileID: 11400000, guid: 28d9c7dea9652d5449e6c077ca3750f7, type: 2}
+  maxTrust2a: 0
+  maxDistanceRespect2a: 0
+  nextSetting2b: {fileID: 11400000, guid: 28d9c7dea9652d5449e6c077ca3750f7, type: 2}
+  maxTrust2b: 0
+  maxDistanceRespect2b: 0
+  nextSetting2c: {fileID: 11400000, guid: 28d9c7dea9652d5449e6c077ca3750f7, type: 2}
+  buttonText3: 
+  nextSetting3a: {fileID: 0}
+  maxTrust3a: 0
+  maxDistanceRespect3a: 0
+  nextSetting3b: {fileID: 0}
+  maxTrust3b: 0
+  maxDistanceRespect3b: 0
+  nextSetting3c: {fileID: 0}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b49313501924048b6fcc117c849978, type: 3}
+  m_Name: BoxOpenA
+  m_EditorClassIdentifier: 
+  mainText: Offenes Ende
+  buttonText1: A
+  nextSetting1a: {fileID: 0}
+  maxTrust1a: 0
+  maxDistanceRespect1a: 0
+  nextSetting1b: {fileID: 0}
+  maxTrust1b: 0
+  maxDistanceRespect1b: 0
+  nextSetting1c: {fileID: 0}
+  buttonText2: B
+  nextSetting2a: {fileID: 0}
+  maxTrust2a: 0
+  maxDistanceRespect2a: 0
+  nextSetting2b: {fileID: 0}
+  maxTrust2b: 0
+  maxDistanceRespect2b: 0
+  nextSetting2c: {fileID: 0}
+  buttonText3: C
+  nextSetting3a: {fileID: 0}
+  maxTrust3a: 0
+  maxDistanceRespect3a: 0
+  nextSetting3b: {fileID: 0}
+  maxTrust3b: 0
+  maxDistanceRespect3b: 0
+  nextSetting3c: {fileID: 0}
